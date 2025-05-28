@@ -1,4 +1,9 @@
-# Datasecience-repo
+Hi 👋, I'm Sakthi  
+I am a passionate Data Science enthusiast with hands-on experience in building data-driven applications, predictive models, and interactive dashboards. I love turning raw data into actionable insights through machine learning and visualization tools.
+
+🔍 I’m looking to collaborate on data science and machine learning projects  
+🤝 I’m looking for mentorship and learning opportunities in real-world data problems  
+📊 I enjoy working with Python, Pandas, NumPy, Scikit-learn, and visualization tools like Power BI & Streamlit  
 
 # 🚀 Data Science & Machine Learning Project Portfolio
 
