@@ -55,7 +55,7 @@ Welcome! This repository showcases a collection of my hands-on data science, mac
 If  recruiter looking for a data-driven developer with full-stack MERN experience and a passion for analytics, feel free to connect!
 
 **🔗 LinkedIn:** [https://www.linkedin.com/in/sakthi-m-cse-853262290]  
-**📧 Email:** sakthi.m2022cse@sece.ac.in
+**📧 Email:** [sakthi.m2022cse@sece.ac.in]
 **🌐 Portfolio:** [https://sakthi2123-portfolio.netlify.app/]
 
 ---
